@@ -4,7 +4,7 @@
 
 PROJETO- SISTEMA DE CONTROLE E PEDIDOS 
 Objetivo
-O projeto tem como propósito desenvolver uma organização simples e objetiva para um sistema de pedidos, que poderia ser utilizado, por exemplo, em uma loja de acessórios para computadores. 
+O projeto tem como propósito desenvolver uma organização simples e objetiva para um sistema de produtos e pedidos, muito utilizado em lojas. 
 
 Para o sistema foram desenvolvidas três tabelas principais, sendo elas: TB_PRODUTOS, TB_PEDIDOS E TB_CLIENTES. Por meio delas, estamos exercitando conceitos importantes da linguagem PL/SQL, como chaves primárias (primary key), chaves estrangeiras (foreign key), SEQUENCE, PROCEDURE e EXCEPTION. 
 
